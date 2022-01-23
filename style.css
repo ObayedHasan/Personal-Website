@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.color-highlight{
+    color: #FF336E;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+/* for anchor link 'HERE ME, LEARN MORE'.*/
+.link-button{
+    text-decoration: none;
+    background-color: #FF336E;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+/*for top Background Image */
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*for middle Background Image */
+.middle-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.myletestwork{
+    text-align: center;
+}
+.halfwidth{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfwidth img{
+    width: 100%;
+}
+.last-banner{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    text-align: center;
+}
+.last-div{
+    text-align: center;
+    margin-left: 30%;
+}
+.last-h3{
+    text-align: center;
+    
+}
+
+.footer-banner{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.unique{
+    text-decoration: none;
+    background-color: #FF336E;
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+span box-test{
+    font-size: small;
+}
+footer p{
+    text-align: center;
+}
